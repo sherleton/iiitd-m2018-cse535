@@ -1,0 +1,60 @@
+Whaling / Whaling attack is a kind of phishing attacks that target senior executives and other high profile to access valuable information.
+1
+Freeware is software that is available for use at no monetary cost.
+1
+IPv6 Internet Protocol address is represented as eight groups of four Octal digits.
+2
+The hexadecimal number system contains digits from 1 - 15.
+2
+Octal number system contains digits from 0 - 7.
+1
+MS Word is a hardware.
+2
+CPU controls only input data of computer.
+2
+CPU stands for Central Performance Unit.
+2
+The Language that the computer can understand is called Machine Language.
+1
+Magnetic Tape used random access method.
+2
+Twitter is an online social networking and blogging service.
+2
+Worms and trojan horses are easily detected and eliminated by antivirus software.
+1
+Dot-matrix, Deskjet, Inkjet and Laser are all types of Printers.
+1
+GNU / Linux is a open source operating system.
+1
+You cannot format text in an e-mail message.
+2
+You type the body of a reply the same way you would type the body of a new message.
+1
+You can store Web-based e-mail messages in online folders.
+1
+You can delete e-mails from a Web-based e-mail account.
+1
+Web-based e-mail accounts do not required passwords.
+2
+You can sign up for Web-based e-mail without accepting the Web site's terms and conditions.
+2
+Your e-mail address must be unique.
+1
+You cannot send a file from a Web-based e-mail account.
+2
+There is only one way to create a new folder.
+2
+You can only store messages in a new folder if they are received after you creat the folder. 
+2
+In Outlook, you must store all of your messages in the Inbox.
+2
+New folders must all be at the same level.
+2
+You cannot edit Contact forms.
+2
+Pressing the Delete key and clicking the Delete button produce the same result.
+1
+You should always open and attachment before saving it.
+2
+The Delete key is for deleting text, it will not delete messages from your Inbox.
+2
